@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
       theme: new ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: new MyHomePage(title: 'Calculator'),
+      home: new MyHomePage(title: 'Calcula'),
     );
   }
 }
